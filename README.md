@@ -37,7 +37,7 @@ YOUR_PATH_TO_REAPER\Effects\REAPER_Infiller_v2\RI Global Options
 
 at this point.
 
-***STEP 6***: Restart REAPER. Load the scripts into REAPER in the usual way: In REAPER, go to Actions > Show action list..., then click on New action > Load ReaScript..., and then open all scripts that start with "REAPER_". All other files are just helper files that these scripts need to run. Before you run any of the scripts, start the neural net server by running the rpr_infiller_nn_server.py file. The server window will need to remain open for the scripts to work.
+***STEP 6***: Restart REAPER. Load the scripts into REAPER in the usual way: In REAPER, go to Actions > Show action list..., then click on New action > Load ReaScript..., and then open all scripts that start with "REAPER_". All other files are just helper files that these scripts need to run. Before you run any of the scripts, start the neural net server by running the rpr_infiller_nn_server.py (or rpr_infiller_nn_server.exe) file. The server window will need to remain open for the scripts to work.
 
 ***STEP 7***: Within REAPER, add the "Global Options for Infiller" fx your Monitor FX chain (view > Monitoring Effects). This fx will need to stay in your Monitor FX to have any effect. Add the "Track-Specific Generation Options" fx to any track that you want to set the infilling controls for before running one of the three REAPER scripts. ENJOY!
 
