@@ -3,7 +3,7 @@ This is an anonymized, temporary repository for REAPER Infiller 2 for purposes o
 
 REAPER Infiller 2 can be used on Windows, Mac, and Linux.
 
-This anonymous video demonstrates the new feeatures introduced in REAPER Infiller 2: https://www.youtube.com/watch?v=6TJh3pHmjXY
+This anonymous video demonstrates the new features introduced in REAPER Infiller 2: https://www.youtube.com/watch?v=6TJh3pHmjXY
 
 **INSTALLATION INSTRUCTIONS**
 
