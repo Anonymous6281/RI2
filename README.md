@@ -1,6 +1,8 @@
 # RI2
 This is an anonymized, temporary repository for Reaper Infiller 2 for purposes of peer review. Following paper acceptance, this repository will be migrated to a permanent, non-anonymized repository.
 
+Reaper Infiller 2 can be used on Windows, Mac, and Linux.
+
 **INSTALLATION INSTRUCTIONS**
 
 ***STEP 1***: Install REAPER (64-bit): https://www.reaper.fm/
@@ -9,7 +11,7 @@ This is an anonymized, temporary repository for Reaper Infiller 2 for purposes o
 
 ***STEP 3***: Configure REAPER to see your python installation. (In REAPER, this is in the Options > Preferences > Plug-Ins > ReaScript menu)
 
-WINDOWS USERS: If all you want to do is use the model (e.g., you do not want to train it on your own files), skip to Step 5.
+WINDOWS USERS: If all you want to do is use the model (e.g., you do not want to train it on your own files), you may skip to Step 5.
 
 ***STEP 4***: Install the following packages for your python installation: pytorch and transformers
 
@@ -21,7 +23,7 @@ WINDOWS USERS: If all you want to do is use the model (e.g., you do not want to 
 
 Users who did step 4: Use [THIS DOWNLOAD](https://github.com/Anonymous6281/RI2/releases/download/v2.0.0/REAPER_Infiller_2.0.0.zip)
 
-Windows users who skipped step 4: Use [Link will be provided upon paper acceptance]
+Windows users who skipped step 4: Use both of the following downloads: [LINK 1](https://github.com/Anonymous6281/RI2/releases/download/v2.0.0/REAPER_Infiller_WIN_2.0.0.zip.001) [LINK2](https://github.com/Anonymous6281/RI2/releases/download/v2.0.0/REAPER_Infiller_WIN_2.0.0.zip.002) (We had to split this file because of github's 2 GB per file size limitation. A single download file will be provided following paper acceptance.) Once both files are downloaded, with 7-zip, right click on the first file and click Open Archive, then drag everything in the archive to your REAPER folder.
 
 Your files are in the right place if you have files like
 
