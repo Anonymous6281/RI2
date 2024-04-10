@@ -21,7 +21,7 @@ WINDOWS USERS: If all you want to do is use the model (e.g., you do not want to 
 
 ***STEP 5***: Unzip one of the following releases to your REAPER folder. (To find your REAPER folder, from within REAPER go to Options > Show REAPER resource path in explorer/finder..., and then open the folder called Scripts.)
 
-Users who did step 4: Use [THIS DOWNLOAD](https://github.com/Anonymous6281/RI2/releases/download/v2.0.0/REAPER_Infiller_2.0.0.zip)
+Users who did step 4 (including Windows users): Use [THIS DOWNLOAD](https://github.com/Anonymous6281/RI2/releases/download/v2.0.0/REAPER_Infiller_2.0.0.zip)
 
 Windows users who skipped step 4: Use both of the following downloads: [LINK 1](https://github.com/Anonymous6281/RI2/releases/download/v2.0.0/REAPER_Infiller_WIN_2.0.0.zip.001) [LINK2](https://github.com/Anonymous6281/RI2/releases/download/v2.0.0/REAPER_Infiller_WIN_2.0.0.zip.002) (We had to split this file because of github's 2 GB per file size limitation. A single download file will be provided following paper acceptance.) Once both files are downloaded, with 7-zip, right click on the first file and click Open Archive, then drag everything in the archive to your REAPER folder.
 
